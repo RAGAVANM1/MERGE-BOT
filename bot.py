@@ -132,7 +132,7 @@ async def stats_handler(c: Client, m: Message):
         f"<b>╭「 💠 BOT STATISTICS 」</b>\n"
         f"<b>│</b>\n"
         f"<b>├⏳ Bot Uptime : {currentTime}</b>\n"
-        f"<b>├💾 Total Disk Space : {total}</b>\n"
+        f"<b>├☄️ Total Disk Space : {total}</b>\n"
         f"<b>├📀 Total Used Space : {used}</b>\n"
         f"<b>├💿 Total Free Space : {free}</b>\n"
         f"<b>├🔺 Total Upload : {sent}</b>\n"
